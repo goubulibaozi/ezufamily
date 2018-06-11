@@ -37,7 +37,7 @@ a{
 }
 .qq{
 	padding-left: 15px;
-	background: url(images/lQQlogo.png) no-repeat left center;
+	background: url(../images/lQQlogo.png) no-repeat left center;
 }
 .right{
 	float: right;
@@ -294,7 +294,7 @@ a{
 	font-family: '微软雅黑';
 	color: #ffffff;
 	text-align: center;
-	background: url(images/lback.png) no-repeat center;
+	background: url(../images/lback.png) no-repeat center;
 }
 .back{
 	height: 388px;
