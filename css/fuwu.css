@@ -240,6 +240,11 @@ a{
 	font-size:16px;
 	color:#cacaca;
 }
+.navb0{
+	width:1200px;
+	height:55px;
+	border-top:0.5px solid #5d5d5d;
+}
 .navb{
 	width:580px;
 	height:55px;
