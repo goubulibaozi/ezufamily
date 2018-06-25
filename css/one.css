@@ -13,7 +13,7 @@ a{
 .box{
 	width:100%;
 	height:1900px;
-	background-image:url(../images/qbigbg.png);
+
 }
 .header{
 	height:151px;
@@ -81,7 +81,7 @@ background:red;
 display:block;       
 }
 .four{
-	width:1200px;
+	width:100%;
 	height:470px;
 	margin-top:0px;
 	margin:0 auto;
